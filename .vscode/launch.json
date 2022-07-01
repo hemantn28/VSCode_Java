@@ -1,0 +1,486 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NthHighestSalary",
+            "request": "launch",
+            "mainClass": "java8.NthHighestSalary",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibonacciSeries",
+            "request": "launch",
+            "mainClass": "Mixed.FibonacciSeries",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "Exceptions.Calculator",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArmstrongNumberDemo",
+            "request": "launch",
+            "mainClass": "Mixed.ArmstrongNumberDemo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch B",
+            "request": "launch",
+            "mainClass": "Mixed.B",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Mixed.Main",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeNumber",
+            "request": "launch",
+            "mainClass": "Mixed.PalindromeNumber",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SerializeDemo",
+            "request": "launch",
+            "mainClass": "Mixed.SerializeDemo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "Mixed.Swap",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserInput",
+            "request": "launch",
+            "mainClass": "Mixed.UserInput",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoVariable",
+            "request": "launch",
+            "mainClass": "Telusko.DemoVariable",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Telusko",
+            "request": "launch",
+            "mainClass": "Telusko.Demo_Telusko",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "Telusko.First",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loop",
+            "request": "launch",
+            "mainClass": "Telusko.Loop",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Object",
+            "request": "launch",
+            "mainClass": "Telusko.Object",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Telusko_Day3",
+            "request": "launch",
+            "mainClass": "Telusko.Telusko_Day3",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book",
+            "request": "launch",
+            "mainClass": "class_objects.Book",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator(1)",
+            "request": "launch",
+            "mainClass": "class_objects.Calculator",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatorInput",
+            "request": "launch",
+            "mainClass": "class_objects.CalculatorInput",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "class_objects.Demo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoScanner",
+            "request": "launch",
+            "mainClass": "class_objects.DemoScanner",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dog",
+            "request": "launch",
+            "mainClass": "class_objects.Dog",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employee",
+            "request": "launch",
+            "mainClass": "class_objects.Employee",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodInputParameter",
+            "request": "launch",
+            "mainClass": "class_objects.MethodInputParameter",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scholar",
+            "request": "launch",
+            "mainClass": "class_objects.Scholar",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "class_objects.Student",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teacher",
+            "request": "launch",
+            "mainClass": "class_objects.Teacher",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(1)",
+            "request": "launch",
+            "mainClass": "conditional_statements.Demo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestedCondition",
+            "request": "launch",
+            "mainClass": "conditional_statements.NestedCondition",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoCustomException",
+            "request": "launch",
+            "mainClass": "custom_exception.DemoCustomException",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Direction",
+            "request": "launch",
+            "mainClass": "default_methods.Direction",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch H",
+            "request": "launch",
+            "mainClass": "default_methods.H",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HT",
+            "request": "launch",
+            "mainClass": "default_methods.HT",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeroSplendor",
+            "request": "launch",
+            "mainClass": "default_methods.HeroSplendor",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Horse",
+            "request": "launch",
+            "mainClass": "default_methods.Horse",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Life",
+            "request": "launch",
+            "mainClass": "default_methods.Life",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Neutral",
+            "request": "launch",
+            "mainClass": "default_methods.Neutral",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "default_methods.Test",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1",
+            "request": "launch",
+            "mainClass": "default_methods.Test1",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch AL_Generic",
+            "request": "launch",
+            "mainClass": "demo_collection.AL_Generic",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch AL_NonGeneric",
+            "request": "launch",
+            "mainClass": "demo_collection.AL_NonGeneric",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoHashSet",
+            "request": "launch",
+            "mainClass": "demo_collection.DemoHashSet",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListDemo",
+            "request": "launch",
+            "mainClass": "demo_collection.ListDemo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetDemo",
+            "request": "launch",
+            "mainClass": "demo_collection.SetDemo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListGenerics",
+            "request": "launch",
+            "mainClass": "generics.ArrayListGenerics",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyGenerics",
+            "request": "launch",
+            "mainClass": "generics.MyGenerics",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lambdas",
+            "request": "launch",
+            "mainClass": "java8.Lambdas",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test(1)",
+            "request": "launch",
+            "mainClass": "java8.Test",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1(1)",
+            "request": "launch",
+            "mainClass": "java8.Test1",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(2)",
+            "request": "launch",
+            "mainClass": "lambda.Demo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParallelStreamDemo",
+            "request": "launch",
+            "mainClass": "parallel_stream.ParallelStreamDemo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParallelStreamExample",
+            "request": "launch",
+            "mainClass": "parallel_stream.ParallelStreamExample",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamPerformanceParallel",
+            "request": "launch",
+            "mainClass": "parallel_stream.StreamPerformanceParallel",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interff",
+            "request": "launch",
+            "mainClass": "static_methods_interface.Interff",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ship",
+            "request": "launch",
+            "mainClass": "static_methods_interface.Ship",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoStreams",
+            "request": "launch",
+            "mainClass": "streams.DemoStreams",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamAPI",
+            "request": "launch",
+            "mainClass": "streams.StreamAPI",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamAPI_Demo",
+            "request": "launch",
+            "mainClass": "streams.StreamAPI_Demo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamConcepts",
+            "request": "launch",
+            "mainClass": "streams.StreamConcepts",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamMain",
+            "request": "launch",
+            "mainClass": "streams.StreamMain",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamMappedObject",
+            "request": "launch",
+            "mainClass": "streams.StreamMappedObject",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stream_Marks",
+            "request": "launch",
+            "mainClass": "streams.Stream_Marks",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamconceptAL",
+            "request": "launch",
+            "mainClass": "streams.StreamconceptAL",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamsDemo",
+            "request": "launch",
+            "mainClass": "streams.StreamsDemo",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch InternMethod",
+            "request": "launch",
+            "mainClass": "string.InternMethod",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseString",
+            "request": "launch",
+            "mainClass": "string.ReverseString",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringReverseByOwnMethod",
+            "request": "launch",
+            "mainClass": "string.StringReverseByOwnMethod",
+            "projectName": "VSCode_Java_3be90bbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreading",
+            "request": "launch",
+            "mainClass": "thread.MultiThreading",
+            "projectName": "VSCode_Java_3be90bbd"
+        }
+    ]
+}

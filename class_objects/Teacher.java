@@ -1,8 +1,5 @@
 package class_objects;
 
-import javax.print.attribute.standard.PrinterInfo;
-
-import com.oracle.xmlns.internal.webservices.jaxws_databinding.SoapBindingParameterStyle;
 
 public class Teacher {
     
